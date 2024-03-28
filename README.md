@@ -56,10 +56,10 @@ The application will start on `http://localhost:8080`.
   GET /api/dist/{firstCountry}-{secondCountry}
   ```
 
-  Retrieves information about the distance between two specified countries.
 
   Example:
   ```http
   GET /api/dist/Germany-Belarus
   ```
   
+  Retrieves information about the distance between two specified countries.
